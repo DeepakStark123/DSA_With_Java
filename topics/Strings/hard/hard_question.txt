@@ -1,79 +1,79 @@
-1) Reverse a String
-    Input: "hello"
-    Output: "olleh"
+1) Find All Permutations of a String
+Input: "abc"
+Output: ["abc", "acb", "bac", "bca", "cab", "cba"]
 
-2) Check if a String is a Palindrome
-    Input: "radar"
-    Output: true
+2) Longest Substring with At Most k Distinct Characters
+Input: "eceba", 2
+Output: "ece"
 
-3) Count Vowels in a String
-    Input: "hello"
-    Output: 2
-    
-4) Find the Length of a String
-    Input: "world"
-    Output: 5
+3) Implement Wildcard Matching
+Input: "aa", "*"
+Output: true
 
-5) Replace Spaces with Underscores
-    Input: "hello world"
-    Output: "hello_world"
-    
-6) Convert String to Uppercase
-    Input: "hello"
-    Output: "HELLO"
+4) Find All Palindromic Substrings
+Input: "aaa"
+Output: 6
 
-7) Check if Two Strings are Anagrams
-    Input: "listen", "silent"
-    Output: true
+5) Find Smallest Substring Containing All Characters
+Input: "abcdebdde", "bde"
+Output: "bcde"
 
-8) Find the First Non-Repeating Character
-    Input: "swiss"
-    Output: "w"
+6) Minimum Insertions to Make a String Palindrome
+Input: "mbadm"
+Output: 2
 
-9) Remove Duplicate Characters
-    Input: "programming"
-    Output: "progamin"
-    
-10) Find the Frequency of a Character
-    Input: "apple", 'p'
-    Output: 2
+7) Find the Longest Repeated Substring
+Input: "banana"
+Output: "ana"
 
-11) Check if a String is Numeric
-    Input: "12345"
-    Output: true
-    
-12) Concatenate Two Strings
-    Input: "hello", "world"
-    Output: "helloworld"
+8) Transform One String into Another with Minimum Operations
+Input: "heap", "pea"
+Output: 3
 
-13) Count Words in a String
-    Input: "hello world"
-    Output: 2
+9) Count All Anagrams of a String in Another
+Input: "cbaebabacd", "abc"
+Output: [0, 6]
 
-14) Find the ASCII Value of a Character
-    Input: 'A'
-    Output: 65
+10) Check if a String is K-Palindrome
+Input: "abxa", k = 1
+Output: true
 
-15) Check if a String Starts with a Substring
-    Input: "hello", "he"
-    Output: true
+11) String to Integer Conversion (atoi)
+Input: "42"
+Output: 42
 
-16) Find the Last Occurrence of a Character
-    Input: "banana", 'a'
-    Output: 5
-    
-17) Reverse Words in a String
-    Input: "hello world"
-    Output: "world hello"
+12) Concatenate Words to Form a Target String
+Input: ["cat", "cats", "and", "sand", "dog"], "catsanddog"
+Output: ["cats and dog", "cat sand dog"]
 
-18) Check if a String Contains Only Alphabets
-    Input: "hello123"
-    Output: false
-    
-19) Replace All Occurrences of a Character
-    Input: "hello", 'l', 'x'
-    Output: "hexxo"
+13) Find All Repeated DNA Sequences
+Input: "AAAAACCCCCAAAAACCCCCCAAAAAGGGTTT"
+Output: ["AAAAACCCCC", "CCCCCAAAAA"]
 
-20) Find the Longest Word in a String
-    Input: "I love programming"
-    Output: "programming"
+14) Count Unique Palindromic Subsequences
+Input: "bccb"
+Output: 6
+
+15) Find Maximum Length of Concatenated String with Unique Characters
+Input: ["un", "iq", "ue"]
+Output: 4
+
+16) Evaluate a Mathematical Expression
+Input: "3+5 / 2"
+Output: 5
+
+17)Longest Substring with Repeating Characters After k Replacements
+Input: "ABAB", 2
+Output: 4
+
+18) Split a String into Primes
+Input: "3175"
+Output: ["31", "7", "5"]
+
+19) Determine the Number of Ways to Decode a String
+Input: "226"
+Output: 3
+
+20) Find the Minimum Number of Swaps to Make a String Palindrome
+Input: "mamad"
+Output: 3
