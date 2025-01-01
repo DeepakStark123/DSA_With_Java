@@ -1,0 +1,79 @@
+1) Check if Two Strings are Rotations of Each Other
+Input: "hello", "llohe"
+Output: true
+
+2) Find All Substrings of a String
+Input: "abc"
+Output: ["a", "b", "c", "ab", "bc", "abc"]
+
+3) Find the Most Frequent Character in a String
+Input: "apple"
+Output: 'p'
+
+4) Check if a String Can Be a Palindrome by Rearranging
+Input: "civic"
+Output: true
+
+5) Remove All Adjacent Duplicates in a String
+Input: "abbaca"
+Output: "ca"
+
+6) Group Anagrams
+Input: ["bat", "tab", "cat"]
+Output: [["bat", "tab"], ["cat"]]
+
+7) Find the Longest Palindromic Substring
+Input: "babad"
+Output: "bab"
+
+8) Implement String Compression
+Input: "aabcccccaaa"
+Output: "a2b1c5a3"
+
+9) Find the Minimum Window Substring
+Input: "ADOBECODEBANC", "ABC"
+Output: "BANC"
+
+10) Check if a String is a Subsequence of Another
+Input: "abc", "ahbgdc"
+Output: true
+
+11) Convert Roman Numerals to Integer
+Input: "IX"
+Output: 9
+
+12) Find the Longest Common Prefix
+Input: ["flower", "flow", "flight"]
+Output: "fl"
+
+13) Split a String into Balanced Substrings
+Input: "RLRRLLRLRL"
+Output: 4
+
+14) Count Distinct Substrings of a String
+Input: "ababa"
+Output: 10
+
+15) Rotate a String by k Characters
+Input: "abcdef", 2
+Output: "efabcd"
+
+16) Check if a String is a Valid Shuffle of Two Strings
+Input: "abc", "def", "adbcef"
+Output: true
+
+17) Check if a String Contains All Binary Codes of Length k
+Input: "00110110", 2
+Output: true
+
+18) Decode a String
+Input: "3[a]2[bc]"
+Output: "aaabcbc"
+
+19) Calculate the Number of Matching Subsequences
+Input: "abcde", ["a", "bb", "acd", "ace"]
+Output: 3
+
+20) Find the Longest Substring with Distinct Characters
+Input: "abcabcbb"
+Output: "abc"
